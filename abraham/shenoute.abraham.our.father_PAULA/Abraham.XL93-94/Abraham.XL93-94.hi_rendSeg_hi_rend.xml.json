@@ -1,0 +1,1 @@
+{"paula": {"@version": "1.0", "header": {"@paula_id": "Abraham.XL93-94_hi_rend"}, "featList": {"@xmlns:xlink": "http://www.w3.org/1999/xlink", "@type": "hi_rend", "@xml:base": "Abraham.XL93-94.hi_rendSeg.xml", "feat": [{"@xlink:href": "#hi_rend_169", "@value": "red"}, {"@xlink:href": "#hi_rend_189", "@value": "superscript"}]}}}

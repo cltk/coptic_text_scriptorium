@@ -1,0 +1,1 @@
+{"paula": {"@version": "1.0", "header": {"@paula_id": "AP.114.theophilus_hi_rendSeg"}, "markList": {"@xmlns:xlink": "http://www.w3.org/1999/xlink", "@type": "hi_rendSeg", "@xml:base": "AP.114.theophilus.tok.xml", "mark": [{"@id": "hi_rend_4", "@xlink:href": "#tok_4"}, {"@id": "hi_rend_46", "@xlink:href": "#tok_46"}, {"@id": "hi_rend_49", "@xlink:href": "#tok_49"}]}}}

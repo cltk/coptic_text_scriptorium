@@ -1,0 +1,1 @@
+{"paula": {"@version": "1.0", "header": {"@paula_id": "AP.42.sarah_langSeg"}, "markList": {"@xmlns:xlink": "http://www.w3.org/1999/xlink", "@type": "langSeg", "@xml:base": "AP.42.sarah.tok.xml", "mark": [{"@id": "lang_7", "@xlink:href": "#xpointer(id('tok_7')/range-to(id('tok_8')))"}, {"@id": "lang_11", "@xlink:href": "#tok_11"}]}}}

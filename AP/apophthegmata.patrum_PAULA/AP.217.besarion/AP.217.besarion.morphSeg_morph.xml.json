@@ -1,0 +1,1 @@
+{"paula": {"@version": "1.0", "header": {"@paula_id": "AP.217.besarion_morph"}, "featList": {"@xmlns:xlink": "http://www.w3.org/1999/xlink", "@type": "morph", "@xml:base": "AP.217.besarion.morphSeg.xml", "feat": [{"@xlink:href": "#morph_64", "@value": "\u2ca3"}, {"@xlink:href": "#morph_65", "@value": "\u03e3\u2ca1\u2c8f\u2ca3\u2c89"}]}}}

@@ -1,0 +1,1 @@
+{"paula": {"@version": "1.0", "header": {"@paula_id": "AP.53.ammona_cb_nSeg"}, "markList": {"@xmlns:xlink": "http://www.w3.org/1999/xlink", "@type": "cb_nSeg", "@xml:base": "AP.53.ammona.tok.xml", "mark": [{"@id": "cb_n_1", "@xlink:href": "#tok_1"}, {"@id": "cb_n_2", "@xlink:href": "#xpointer(id('tok_2')/range-to(id('tok_195')))"}]}}}

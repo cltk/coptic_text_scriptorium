@@ -1,0 +1,1 @@
+{"paula": {"@version": "1.0", "header": {"@paula_id": "AP.42.sarah.meta_project"}, "featList": {"@xmlns:xlink": "http://www.w3.org/1999/xlink", "@type": "project", "@xml:base": "AP.42.sarah.anno.xml", "feat": {"@xlink:href": "#anno_1", "@value": "Coptic SCRIPtorIuM"}}}}

@@ -1,0 +1,1 @@
+{"paula": {"@version": "1.0", "header": {"@paula_id": "AP.217.besarion_morphSeg"}, "markList": {"@xmlns:xlink": "http://www.w3.org/1999/xlink", "@type": "morphSeg", "@xml:base": "AP.217.besarion.tok.xml", "mark": [{"@id": "morph_64", "@xlink:href": "#tok_64"}, {"@id": "morph_65", "@xlink:href": "#tok_65"}]}}}

@@ -1,0 +1,1 @@
+{"paula": {"@version": "1.0", "header": {"@paula_id": "AP.25.pambo_note"}, "featList": {"@xmlns:xlink": "http://www.w3.org/1999/xlink", "@type": "note", "@xml:base": "AP.25.pambo.noteSeg.xml", "feat": [{"@xlink:href": "#note_1", "@value": "ekthetic"}, {"@xlink:href": "#note_27", "@value": "large"}, {"@xlink:href": "#note_64", "@value": "large"}]}}}

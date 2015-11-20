@@ -1,0 +1,1 @@
+{"paula": {"@version": "1.0", "header": {"@paula_id": "coref.AP.23.isaac_coref_type"}, "featList": {"@xmlns:xlink": "http://www.w3.org/1999/xlink", "@type": "type", "@xml:base": "coref.AP.23.isaac.coref.xml", "feat": {"@xlink:href": "#rel_49", "@value": "ident"}}}}

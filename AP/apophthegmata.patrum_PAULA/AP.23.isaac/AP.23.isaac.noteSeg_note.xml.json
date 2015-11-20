@@ -1,0 +1,1 @@
+{"paula": {"@version": "1.0", "header": {"@paula_id": "AP.23.isaac_note"}, "featList": {"@xmlns:xlink": "http://www.w3.org/1999/xlink", "@type": "note", "@xml:base": "AP.23.isaac.noteSeg.xml", "feat": [{"@xlink:href": "#note_1", "@value": "ekthetic"}, {"@xlink:href": "#note_61", "@value": "ekthetic"}]}}}
