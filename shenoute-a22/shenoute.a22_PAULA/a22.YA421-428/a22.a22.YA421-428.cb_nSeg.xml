@@ -6,21 +6,21 @@
 <header paula_id="a22.a22.YA421-428_cb_nSeg"/>
 
 <markList xmlns:xlink="http://www.w3.org/1999/xlink" type="cb_nSeg" xml:base="a22.a22.YA421-428.tok.xml">
-<mark id="cb_n_1" xlink:href="#xpointer(id('tok_1')/range-to(id('tok_125')))"/><!-- ⲟⲩ...ϣⲱ -->
-<mark id="cb_n_126" xlink:href="#xpointer(id('tok_126')/range-to(id('tok_246')))"/><!-- ⲡⲉ...ⲥϩⲟⲩⲟ -->
-<mark id="cb_n_247" xlink:href="#xpointer(id('tok_247')/range-to(id('tok_372')))"/><!-- Ⲣ...· -->
-<mark id="cb_n_373" xlink:href="#xpointer(id('tok_373')/range-to(id('tok_491')))"/><!-- Ⲁ...ⲟⲩ -->
-<mark id="cb_n_492" xlink:href="#xpointer(id('tok_492')/range-to(id('tok_625')))"/><!-- ⲉ...ⲡⲟ -->
-<mark id="cb_n_626" xlink:href="#xpointer(id('tok_626')/range-to(id('tok_759')))"/><!-- ⲛⲏ...ⲙⲁ -->
-<mark id="cb_n_760" xlink:href="#xpointer(id('tok_760')/range-to(id('tok_880')))"/><!-- ⲛ...ⲡ -->
-<mark id="cb_n_881" xlink:href="#xpointer(id('tok_881')/range-to(id('tok_1004')))"/><!-- ⲉⲥⲏⲧ`...ⲕⲁⲧⲁ -->
-<mark id="cb_n_1005" xlink:href="#xpointer(id('tok_1005')/range-to(id('tok_1126')))"/><!-- ⲑ...ⲩ -->
-<mark id="cb_n_1127" xlink:href="#xpointer(id('tok_1127')/range-to(id('tok_1251')))"/><!-- ⲡⲏⲧ...ⲛⲓⲙ -->
-<mark id="cb_n_1252" xlink:href="#xpointer(id('tok_1252')/range-to(id('tok_1372')))"/><!-- ⲛ̄...ⲙ︤ⲛ︦ⲧ︥ -->
-<mark id="cb_n_1373" xlink:href="#xpointer(id('tok_1373')/range-to(id('tok_1497')))"/><!-- ⲛⲟⲩⲧⲉ...ⲉ -->
-<mark id="cb_n_1498" xlink:href="#xpointer(id('tok_1498')/range-to(id('tok_1625')))"/><!-- ⲛ̄...ⲛⲟⲩⲧⲉ -->
-<mark id="cb_n_1626" xlink:href="#xpointer(id('tok_1626')/range-to(id('tok_1750')))"/><!-- ⲉ...ⲙ̄ -->
-<mark id="cb_n_1751" xlink:href="#xpointer(id('tok_1751')/range-to(id('tok_1883')))"/><!-- ⲙ︤ⲛ︦ⲧ︥...ⲉⲧⲃⲉ -->
-<mark id="cb_n_1884" xlink:href="#xpointer(id('tok_1884')/range-to(id('tok_1993')))"/><!-- ⲡ...ⲟⲩⲁⲁⲃ -->
+<mark id="cb_n_1" xlink:href="#xpointer(id('tok_1')/range-to(id('tok_123')))"/><!-- ⲣ̄...ϣⲱ -->
+<mark id="cb_n_124" xlink:href="#xpointer(id('tok_124')/range-to(id('tok_244')))"/><!-- ⲡⲉ...ⲥϩⲟⲩⲟ -->
+<mark id="cb_n_245" xlink:href="#xpointer(id('tok_245')/range-to(id('tok_370')))"/><!-- Ⲣ...· -->
+<mark id="cb_n_371" xlink:href="#xpointer(id('tok_371')/range-to(id('tok_489')))"/><!-- Ⲁ...ⲟⲩ -->
+<mark id="cb_n_490" xlink:href="#xpointer(id('tok_490')/range-to(id('tok_623')))"/><!-- ⲉ...ⲡⲟ -->
+<mark id="cb_n_624" xlink:href="#xpointer(id('tok_624')/range-to(id('tok_757')))"/><!-- ⲛⲏ...ⲙⲁ -->
+<mark id="cb_n_758" xlink:href="#xpointer(id('tok_758')/range-to(id('tok_878')))"/><!-- ⲛ...ⲡ -->
+<mark id="cb_n_879" xlink:href="#xpointer(id('tok_879')/range-to(id('tok_1002')))"/><!-- ⲉⲥⲏⲧ`...ⲕⲁⲧⲁ -->
+<mark id="cb_n_1003" xlink:href="#xpointer(id('tok_1003')/range-to(id('tok_1124')))"/><!-- ⲑ...ⲩ -->
+<mark id="cb_n_1125" xlink:href="#xpointer(id('tok_1125')/range-to(id('tok_1249')))"/><!-- ⲡⲏⲧ...ⲛⲓⲙ -->
+<mark id="cb_n_1250" xlink:href="#xpointer(id('tok_1250')/range-to(id('tok_1370')))"/><!-- ⲛ̄...ⲙ︤ⲛ︦ⲧ︥ -->
+<mark id="cb_n_1371" xlink:href="#xpointer(id('tok_1371')/range-to(id('tok_1495')))"/><!-- ⲛⲟⲩⲧⲉ...ⲉ -->
+<mark id="cb_n_1496" xlink:href="#xpointer(id('tok_1496')/range-to(id('tok_1621')))"/><!-- ⲛ̄...ⲛⲟⲩⲧⲉ -->
+<mark id="cb_n_1622" xlink:href="#xpointer(id('tok_1622')/range-to(id('tok_1746')))"/><!-- ⲉ...ⲙ̄ -->
+<mark id="cb_n_1747" xlink:href="#xpointer(id('tok_1747')/range-to(id('tok_1879')))"/><!-- ⲙ︤ⲛ︦ⲧ︥...ⲉⲧⲃⲉ -->
+<mark id="cb_n_1880" xlink:href="#xpointer(id('tok_1880')/range-to(id('tok_1989')))"/><!-- ⲡ...ⲟⲩⲁⲁⲃ -->
 </markList>
 </paula>

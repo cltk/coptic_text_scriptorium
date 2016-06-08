@@ -6,13 +6,13 @@
 <header paula_id="a22.a22.YA421-428_pb_xml_idSeg"/>
 
 <markList xmlns:xlink="http://www.w3.org/1999/xlink" type="pb_xml_idSeg" xml:base="a22.a22.YA421-428.tok.xml">
-<mark id="pb_xml_id_1" xlink:href="#xpointer(id('tok_1')/range-to(id('tok_246')))"/><!-- ⲟⲩ...ⲥϩⲟⲩⲟ -->
-<mark id="pb_xml_id_247" xlink:href="#xpointer(id('tok_247')/range-to(id('tok_491')))"/><!-- Ⲣ...ⲟⲩ -->
-<mark id="pb_xml_id_492" xlink:href="#xpointer(id('tok_492')/range-to(id('tok_759')))"/><!-- ⲉ...ⲙⲁ -->
-<mark id="pb_xml_id_760" xlink:href="#xpointer(id('tok_760')/range-to(id('tok_1004')))"/><!-- ⲛ...ⲕⲁⲧⲁ -->
-<mark id="pb_xml_id_1005" xlink:href="#xpointer(id('tok_1005')/range-to(id('tok_1251')))"/><!-- ⲑ...ⲛⲓⲙ -->
-<mark id="pb_xml_id_1252" xlink:href="#xpointer(id('tok_1252')/range-to(id('tok_1497')))"/><!-- ⲛ̄...ⲉ -->
-<mark id="pb_xml_id_1498" xlink:href="#xpointer(id('tok_1498')/range-to(id('tok_1750')))"/><!-- ⲛ̄...ⲙ̄ -->
-<mark id="pb_xml_id_1751" xlink:href="#xpointer(id('tok_1751')/range-to(id('tok_1993')))"/><!-- ⲙ︤ⲛ︦ⲧ︥...ⲟⲩⲁⲁⲃ -->
+<mark id="pb_xml_id_1" xlink:href="#xpointer(id('tok_1')/range-to(id('tok_244')))"/><!-- ⲣ̄...ⲥϩⲟⲩⲟ -->
+<mark id="pb_xml_id_245" xlink:href="#xpointer(id('tok_245')/range-to(id('tok_489')))"/><!-- Ⲣ...ⲟⲩ -->
+<mark id="pb_xml_id_490" xlink:href="#xpointer(id('tok_490')/range-to(id('tok_757')))"/><!-- ⲉ...ⲙⲁ -->
+<mark id="pb_xml_id_758" xlink:href="#xpointer(id('tok_758')/range-to(id('tok_1002')))"/><!-- ⲛ...ⲕⲁⲧⲁ -->
+<mark id="pb_xml_id_1003" xlink:href="#xpointer(id('tok_1003')/range-to(id('tok_1249')))"/><!-- ⲑ...ⲛⲓⲙ -->
+<mark id="pb_xml_id_1250" xlink:href="#xpointer(id('tok_1250')/range-to(id('tok_1495')))"/><!-- ⲛ̄...ⲉ -->
+<mark id="pb_xml_id_1496" xlink:href="#xpointer(id('tok_1496')/range-to(id('tok_1746')))"/><!-- ⲛ̄...ⲙ̄ -->
+<mark id="pb_xml_id_1747" xlink:href="#xpointer(id('tok_1747')/range-to(id('tok_1989')))"/><!-- ⲙ︤ⲛ︦ⲧ︥...ⲟⲩⲁⲁⲃ -->
 </markList>
 </paula>
